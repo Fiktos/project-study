@@ -1,3 +1,3 @@
-Můj další commit!
+Můj první commit a po několikáté!
 
 Konečně se podařilo, teď zkusíme commit no.2
